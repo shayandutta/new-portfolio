@@ -5,7 +5,7 @@ import projImg2 from "../assets/img/new1.png";
 import projImg3 from "../assets/img/new3.png";
 import projImg4 from "../assets/img/new4.png";
 import projImg5 from "../assets/img/new5.png";
-import projImg6 from "../assets/img/new4.png";
+import projImg6 from "../assets/img/new6.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -37,6 +37,11 @@ export const Projects = () => {
       title: "Music Player",
       description: "Design & Development",
       imgUrl: projImg4,
+    },
+    {
+      title: "AEC STC website",
+      description: "Design & Development",
+      imgUrl: projImg6,
     }
   ];
 
